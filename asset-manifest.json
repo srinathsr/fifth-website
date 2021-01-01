@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fifth-website/static/css/main.6180929d.chunk.css",
+    "main.js": "/fifth-website/static/js/main.1720d8a2.chunk.js",
+    "main.js.map": "/fifth-website/static/js/main.1720d8a2.chunk.js.map",
+    "runtime-main.js": "/fifth-website/static/js/runtime-main.07b0cbc9.js",
+    "runtime-main.js.map": "/fifth-website/static/js/runtime-main.07b0cbc9.js.map",
+    "static/js/2.6e323a49.chunk.js": "/fifth-website/static/js/2.6e323a49.chunk.js",
+    "static/js/2.6e323a49.chunk.js.map": "/fifth-website/static/js/2.6e323a49.chunk.js.map",
+    "index.html": "/fifth-website/index.html",
+    "static/css/main.6180929d.chunk.css.map": "/fifth-website/static/css/main.6180929d.chunk.css.map",
+    "static/js/2.6e323a49.chunk.js.LICENSE.txt": "/fifth-website/static/js/2.6e323a49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07b0cbc9.js",
+    "static/js/2.6e323a49.chunk.js",
+    "static/css/main.6180929d.chunk.css",
+    "static/js/main.1720d8a2.chunk.js"
+  ]
+}
